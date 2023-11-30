@@ -1,7 +1,7 @@
 # 우아한테크코스 프리코스
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&animation=fadeIn&height=320&section=header&text=우아한테크코스%20프리코스%206기&desc=🧑‍💻%20백엔드%20최원준(타칸)&fontSize=50&fontAlign=50&fontAlignY=36&descSize=24&descAlign=50&descAlignY=52)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&animation=fadeIn&height=320&section=header&text=%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4%20Precourse%203%EC%A3%BC%EC%B0%A8&desc=%F0%9F%8E%B1%20%EB%A1%9C%EB%98%90%20(Lotto)%20-%20%EC%9D%B5%EB%AA%85&fontSize=48&fontAlign=50&fontAlignY=36&descSize=24&descAlign=50&descAlignY=52)
 
-우아한테크코스 프리코스 백엔드 6기에 지원한 저의 기록들입니다!
+우아한테크코스 프리코스 백엔드 6기에 지원한 저의 한달간의 기록입니다!
 ## 📅 프리코스 기간
 > 2023.10.19 ~ 2023.11.15
 >
