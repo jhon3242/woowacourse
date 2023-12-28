@@ -12,6 +12,7 @@
 | 2주차 | [자동차 경주](https://github.com/woowacourse-precourse/java-racingcar-6) | [PR - 1130](https://github.com/woowacourse-precourse/java-racingcar-6/pull/1130) | [2주차 회고록](https://flight-developer-stroy.tistory.com/48) |
 | 3주차 | [로또](https://github.com/woowacourse-precourse/java-lotto-6) | [PR - 240](https://github.com/woowacourse-precourse/java-lotto-6/pull/240/) | [3주차 회고록](https://flight-developer-stroy.tistory.com/52) |
 | 4주차 | [크리스마스 프로모션](https://github.com/woowacourse-precourse/java-christmas-6) | [내 코드](https://github.com/jhon3242/java-christmas-6-jhon3242/pull/1) | [4주차 회고록](https://flight-developer-stroy.tistory.com/55) |
+| 최종 코테 | [온콜](https://github.com/woowacourse-precourse/java-oncall-6) | [내 코드](https://github.com/jhon3242/java-oncall-6-jhon3242) | [최종 코테 회고록](https://flight-developer-stroy.tistory.com/59) |
 
 ## 📖 미션 기간 동안 작성했던 글
 | 제목 | 링크 |
